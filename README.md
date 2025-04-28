@@ -24,7 +24,7 @@ To use this file Download or clone this repository using the following command:
    git clone https://github.com/IdoTadian/Ido-Tadian-Projects.git
 then, navigate to the file you want to use and open it.
 
-**Contact:**
+# Contact
 For any questions or collaboration opportunities, feel free to reach out:
 **Email:** idotadian057@gmail.com
 **LinkedIn:** www.linkedin.com/in/ido-tadian
