@@ -1,6 +1,11 @@
 # Ido-Tadian-Projects
 Welcome to my GitHub repository! This repository contains a collection of projects I have worked on, showcasing my skills and experience.
 
+# Contact
+For any questions or collaboration opportunities, feel free to reach out:
+**Email:** idotadian057@gmail.com
+**LinkedIn:** www.linkedin.com/in/ido-tadian
+
 # Dashboard - Power BI
 **Description:**
 This project showcases the final stage of a database design and analysis project completed during my academic studies.
@@ -24,8 +29,4 @@ To use this file Download or clone this repository using the following command:
    git clone https://github.com/IdoTadian/Ido-Tadian-Projects.git
 then, navigate to the file you want to use and open it.
 
-# Contact
-For any questions or collaboration opportunities, feel free to reach out:
-**Email:** idotadian057@gmail.com
-**LinkedIn:** www.linkedin.com/in/ido-tadian
 
