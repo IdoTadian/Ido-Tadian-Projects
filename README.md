@@ -24,17 +24,17 @@ The database structure, queries, and data generation process were part of the fu
 SQL, Power BI, Excel
 
 
-## Business Intelligence & Analytics Project – Tableau
+# Business Intelligence & Analytics Project – Tableau
 
 This project involved the complete design and implementation of a Business Intelligence & Analytics (BI&A) solution for a fictional bicycle and accessories retail company, with the goal of enabling better, data-driven decision-making at all organizational levels.
 
-### 🔧 Phase 1: Data Warehouse Design
+### Phase 1: Data Warehouse Design
 - Built a full-scale **Data Warehouse** from scratch, based on business needs, using a **Star Schema** model.
 - Identified and defined **fact tables** (e.g., sales transactions) and multiple **dimension tables** (e.g., customers, products, time).
 - Performed **data aggregation and transformation** where necessary to optimize performance and usability.
 - Defined and calculated **critical business KPIs** (Key Performance Indicators) aligned with strategic and operational goals.
 
-### 📊 Phase 2: BI Applications Development in Tableau
+### Phase 2: BI Applications Development in Tableau
 - Developed **two business reports**:
   - A **strategic-level report** supporting long-term decision-making.
   - A **tactical-level report** aimed at operational performance improvement.
@@ -45,7 +45,7 @@ This project involved the complete design and implementation of a Business Intel
   - Enabled business users to perform **multi-dimensional slicing and dicing** using pivot tables.
   - Used **Data Storytelling** techniques to highlight key insights.
 
-### 📈 Phase 3: Advanced Analytical Investigation
+### Phase 3: Advanced Analytical Investigation
 - Conducted **confirmatory data analysis** to answer business-critical questions using statistical methods:
   - Performed **ANOVA**, **T-Tests**, and **Chi-square tests** for hypothesis testing.
   - Combined **diagnostic and descriptive analytics** to generate actionable insights.
