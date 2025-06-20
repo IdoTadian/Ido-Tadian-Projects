@@ -24,7 +24,7 @@ The database structure, queries, and data generation process were part of the fu
 SQL, Power BI, Excel
 
 
-# Business Intelligence & Analytics Project – Tableau
+# Business Intelligence & Analytics – Tableau
 
 This project involved the complete design and implementation of a Business Intelligence & Analytics (BI&A) solution for a fictional bicycle and accessories retail company, with the goal of enabling better, data-driven decision-making at all organizational levels.
 
