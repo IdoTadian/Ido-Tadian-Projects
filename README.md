@@ -26,7 +26,7 @@ For any questions or collaboration opportunities, feel free to reach out:
 
 ---
 
-## ⚙️ How to Use:
+## How to Use:
 
 To use this repository, download or clone it using the following command:
 
