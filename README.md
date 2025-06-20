@@ -1,12 +1,4 @@
 # Ido-Tadian-Projects
-Welcome to my GitHub repository! This repository contains a collection of projects I have worked on, showcasing my skills and experience.
-
-# Contact
-For any questions or collaboration opportunities, feel free to reach out:
-**Email:** idotadian057@gmail.com
-**LinkedIn:** www.linkedin.com/in/ido-tadian
-
-# Ido-Tadian-Projects
 
 Welcome to my GitHub repository! This repository contains a collection of projects I have worked on, showcasing my skills and experience in Business Intelligence, Data Analysis, and Data Visualization.
 
@@ -40,12 +32,3 @@ To use this repository, download or clone it using the following command:
 
 ```bash
 git clone https://github.com/IdoTadian/Ido-Tadian-Projects.git
-
-
-**How to Use:** 
-To use this file Download or clone this repository using the following command:
-   ```bash
-   git clone https://github.com/IdoTadian/Ido-Tadian-Projects.git
-then, navigate to the file you want to use and open it.
-
-
